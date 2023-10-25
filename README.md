@@ -1,4 +1,4 @@
-# Isto é uma cópia.
+# Este repositório apenas serve como backup.
 
 o projeto original se encontra no [GitLab](https://gitlab.com/slackermedia/bashcrawl) 
 
