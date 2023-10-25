@@ -1,3 +1,8 @@
+# Isto é uma cópia.
+
+o projeto original se encontra no [GitLab](https://gitlab.com/slackermedia/bashcrawl) 
+
+
 # Welcome!
 
 This is a game to teach you the basics of using a POSIX (Linux, BSD, UNIX) terminal.
